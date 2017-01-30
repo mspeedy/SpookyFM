@@ -19,4 +19,6 @@ RULES:
 
 2. Switch stations to the song request on the screen to increase your rating. 
 
-3. Comcast fucking sucks. When the "ON AIR" sign next to your desk turns off, you won't be able to change songs until you restart the router on the left of the screen. 4. DJ PJ has a crippling caffeine addiction. As the coffee meter in the top left starts to drop, your walking speed slows to a crawl. Refill at the coffee machine to the right.
+3. Comcast fucking sucks. When the "ON AIR" sign next to your desk turns off, you won't be able to change songs until you restart the router on the left of the screen. 
+
+4. DJ PJ has a crippling caffeine addiction. As the coffee meter in the top left starts to drop, your walking speed slows to a crawl. Refill at the coffee machine to the right.

@@ -1,0 +1,1 @@
+The Resources folder is where all the art assets that we need to find programatically will go. Things like sprite sheets belong here.

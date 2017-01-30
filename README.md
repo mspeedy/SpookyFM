@@ -27,3 +27,5 @@ RULES:
 Programming by myself ( @MSpeedy ) @SteveKrueger52, @GerritsC, and @Ben16
 
 Art by Rabbit Giraud, Aaron Salomon, and Marie Yatsyk
+
+Made at Boston Global Game Jam 2017
